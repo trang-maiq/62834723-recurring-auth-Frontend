@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "SharingMeetup 2025 is an exclusive event focused on the latest in tech and innovation, happening on October 12 – 14 in San Francisco.",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Join the Yay Community – Where Knowledge Inspires Innovation",
+        "title": "Unleash Your Technical Brilliance"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Join the Yay Community – Where Knowledge Inspires Innovation",
+        "title": "Unleash Your Technical Brilliance"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Join the Yay Community – Where Knowledge Inspires Innovation",
+        "title": "Unleash Your Technical Brilliance"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Join the Yay Community – Where Knowledge Inspires Innovation",
+        "title": "Unleash Your Technical Brilliance"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Join the Yay Community – Where Knowledge Inspires Innovation",
+        "title": "Unleash Your Technical Brilliance"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Join the Yay Community – Where Knowledge Inspires Innovation",
+        "title": "Unleash Your Technical Brilliance"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Join the Yay Community – Where Knowledge Inspires Innovation",
+        "title": "Unleash Your Technical Brilliance"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Unleash Your Technical Brilliance",
+  "subtitle": "Join the Yay Community – Where Knowledge Inspires Innovation"
+}
